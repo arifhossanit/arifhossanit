@@ -118,7 +118,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable, produ
 - 🔄 Advanced Next.js patterns and optimization
 - 🔐 Microservices architecture
 - 🐳 Docker & containerization
-- 📱 Mobile app development
 - ☁️ Cloud deployment (AWS, Heroku)
 
 ---
